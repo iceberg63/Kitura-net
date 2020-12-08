@@ -1,5 +1,5 @@
 {
     "scripts": {
-    "deploy": "gh-pages -d docs -r https://${KITURA_NEXT}@github.com/iceberg63/Kitura.git"
+    "deploy": "gh-pages -d docs -r https://${KITURA_NEXT}@github.com/iceberg63/Kitura-net.git"
   }
 }
